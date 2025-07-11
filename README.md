@@ -14,13 +14,6 @@ This project is part of my recap for HTML & CSS fundamentals. 🚀
 
 ---
 
-## 💻 Demo
-
-*(Add a live demo link if you host it on GitHub Pages or Netlify)*  
-[🔗 View Live](tarika06.github.io/Youtube-clone/)
-
----
-
 ## 🖼️ UI Features
 
 - Navbar with logo, search bar, and icons
