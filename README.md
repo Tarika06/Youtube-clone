@@ -17,7 +17,7 @@ This project is part of my recap for HTML & CSS fundamentals. 🚀
 ## 💻 Demo
 
 *(Add a live demo link if you host it on GitHub Pages or Netlify)*  
-[🔗 View Live](https://your-username.github.io/youtube-clone)
+[🔗 View Live](htarika06.github.io/Youtube-clone/)
 
 ---
 
